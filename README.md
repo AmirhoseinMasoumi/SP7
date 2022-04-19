@@ -1,7 +1,7 @@
 # Description
 SP7 is an easy to use FPGA Development board featuring Spartan 7 FPGA (XC7S25 – FTGB196 package) with FTDI’s FT2232H Dual-Channel USB device.     
 It is specially designed for the development and integration of FPGA based accelerated features to other designs.       
-The high-speed USB 2.0 interface provides fast and easy configuration download to the onboard SPI flash.        
+The Hi-Speed USB 2.0 interface provides fast and easy configuration download to the onboard SPI flash.        
 No programmer or special downloader cable is needed to download the bitstream to the board. 
 
 ## Features
